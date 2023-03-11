@@ -5,6 +5,10 @@ borderless, inverted (negative color of the background) cursor for windows (.cur
 windows default inverted curser skins all have black border / outline, which is INBALANCE under the 'color-invert' context.  
 I made this for people with obsession, for example me.  
 
+## recommend settings
+- Settings > Accessibility > Mouse pointer and touch > Mouse pointer > Size = 2
+- Personalization > Themes > Mouse cursor > [set xxx.cur for each state]
+
 ## made with  
 Greenfish Icon Editor Pro 4.1 
 
